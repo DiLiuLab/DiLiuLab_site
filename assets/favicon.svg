@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Di Liu Lab">
+  <rect width="64" height="64" rx="14" fill="#8c1d40"/>
+  <path d="M18 43c9-20 19-24 28-22M18 21c9 20 19 24 28 22" fill="none" stroke="#ffc627" stroke-width="4" stroke-linecap="round"/>
+  <path d="M24 28h16M24 36h16" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <text x="32" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">DL</text>
+</svg>
