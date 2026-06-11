@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Interlocking D and L monogram for the Di Liu Lab">
+  <rect width="64" height="64" rx="14" fill="#f5f8fa"/>
+
+  <!-- Base-pair rungs connect the two upright strands. -->
+  <g fill="none" stroke="#ffc627" stroke-width="3" stroke-linecap="round">
+    <path d="M18 23H35"/>
+    <path d="M18 32H35"/>
+    <path d="M18 41H35"/>
+  </g>
+
+  <!-- The D forms a closed topological loop. -->
+  <path
+    d="M16 13V51H27C42 51 50 43.5 50 32C50 20.5 42 13 27 13H16"
+    fill="none"
+    stroke="#8c1d40"
+    stroke-width="7"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- The L threads over the upper arc and beneath the lower arc. -->
+  <path
+    d="M36 8V44H55"
+    fill="none"
+    stroke="#1d858c"
+    stroke-width="7"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- A clean color-over-color crossing completes the interlock. -->
+  <path
+    d="M41 49C46.5 47.5 49.5 43 50 37"
+    fill="none"
+    stroke="#8c1d40"
+    stroke-width="7"
+    stroke-linecap="round"
+  />
+</svg>
